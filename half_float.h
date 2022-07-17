@@ -2,7 +2,6 @@
 #define __HALF_FLOAT_H__
 #include <stdio.h>
 #include <stdint.h>
-#include "float_bit_print.h"
 #include <math.h>
 // Half Float Library by yaneurao
 // (16-bit float)
